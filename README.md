@@ -7,4 +7,4 @@ as well as the ability to lend money to other users.
 The interface is designed to be user-friendly and streamlined, 
 offering only the essential features needed for managing one's finances.
 
-[Imgur](https://i.imgur.com/6Vl9swn.png)
+<a href="https://imgur.com/6Vl9swn"><img src="https://i.imgur.com/6Vl9swn.png" title="source: imgur.com" /></a>
