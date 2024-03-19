@@ -39,9 +39,9 @@ If you setup JavaScript using vite you can deploy this project using
 - Password: 1111  
 
 **Besufkad Ayele:**  
-- Username: be  
+- Username: ba  
 - Password: 2222  
 
 **Niftalem Mule:**  
-- Username: nf  
+- Username: nm  
 - Password: 3333  
