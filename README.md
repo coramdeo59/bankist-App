@@ -32,7 +32,7 @@ If you setup JavaScript using vite you can deploy this project using
   $ npm run deploy
 ```
 
-You may log in using to view the live version. 
+# You may log in using to view the live version. 
 
 **Melkamu Elias:**  
 - Username: me  
