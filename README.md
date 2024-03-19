@@ -31,3 +31,17 @@ If you setup JavaScript using vite you can deploy this project using
 ```bash
   $ npm run deploy
 ```
+
+You may log in using to view the live version. 
+
+**Melkamu Elias:**  
+- Username: me  
+- Password: 1111  
+
+**Besufkad Ayele:**  
+- Username: be  
+- Password: 2222  
+
+**Niftalem Mule:**  
+- Username: nf  
+- Password: 3333  
